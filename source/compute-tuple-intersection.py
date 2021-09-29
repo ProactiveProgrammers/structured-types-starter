@@ -5,7 +5,7 @@ from typing import Tuple
 def compute_intersection(tuple_one: Tuple[Any, ...], tuple_two: Tuple[Any, ...]) -> Tuple[Any, ...]:
     """Return a tuple containing the elements in both input tuples."""
     # TODO: Add the source code lines from page 91 of the textbook
-    # TODO: The following line is a placeholder you should delete it
+    # TODO: The following line is a placeholder that you should delete
     return ()
 
 
