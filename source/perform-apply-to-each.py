@@ -25,8 +25,8 @@ apply_to_each(values, int)
 # display the list after int transformation
 print(f"Values after applying int: {values}")
 
-# apply the int function
+# apply the square function
 apply_to_each(values, lambda x: x*x)
 
-# display the list after int transformation
+# display the list after square transformation
 print(f"Values after applying squaring: {values}")
