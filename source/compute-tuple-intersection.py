@@ -9,23 +9,15 @@ def compute_intersection(tuple_one: Tuple[Any, ...], tuple_two: Tuple[Any, ...])
     return ()
 
 
-# create two distinct tuples with some overlapping values
-first_tuple = (1, "a", 2)
-second_tuple = ("b", 2, "a")
+# TODO: create two distinct tuples with some overlapping values
 
-# display the contents of the tuples
-print(f"The first tuple: {first_tuple}")
-print(f"The second tuple: {second_tuple}")
+# TODO: display the contents of the tuples
 
-# compute the set intersection of the two tuples
+# TODO: compute the set intersection of the two tuples
+# TODO: save the output of the function calls in a separate tuple variable
 # --> first_tuple intersects with second_tuple
-intersection_tuple_one = compute_intersection(first_tuple, second_tuple)
 # --> second_tuple intersects with first_tuple
-intersection_tuple_two = compute_intersection(second_tuple, first_tuple)
 
-# display a blank line
-print()
+# TODO: display a blank line
 
-# display the two different set intersections
-print(f"The first intersection tuple: {intersection_tuple_one}")
-print(f"The second intersection tuple: {intersection_tuple_two}")
+# TODO: display the two different set intersections
