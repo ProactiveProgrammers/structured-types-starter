@@ -23,20 +23,20 @@ TODO: Use a fenced code block to provide the output for this command.
 
 ### Explain every component of the following function signature
 
-TODO: Provide a detailed response to this question
+TODO: Provide a detailed response to this question.
 
 `def compute_intersection(tuple_one: Tuple[Any, ...], tuple_two: Tuple[Any, ...]) -> Tuple[Any, ...]:`
 
 ### Why does the `compute_intersection` function return different outputs depending on its inputs?
 
-TODO: Provide a detailed response to this question
+TODO: Provide a detailed response to this question.
 
 ### Explain every component of the following function signature
 
-TODO: Provide a detailed response to this question
+TODO: Provide a detailed response to this question.
 
 `def apply_to_each(values: List[int], function: Callable) -> None`
 
 ### Why does the `apply_to_each` function not need to return a list?
 
-TODO: Provide a detailed response to this question
+TODO: Provide a detailed response to this question.
