@@ -1,6 +1,9 @@
 from typing import Callable
 from typing import List
 
+# TODO: Refer to the source code in the Jupyter Notebook and the course
+# slides for more details on how to implement these required features
+
 
 def apply_to_each(values: List[int], function: Callable) -> None:
     """Mutate the input list by applying the provided function to each of its elements."""
@@ -10,23 +13,16 @@ def apply_to_each(values: List[int], function: Callable) -> None:
 # create the list of values
 values = [1, -2, 3.33]
 
-# display the list before any transformation
-print(f"Values before transformations: {values}")
+# TODO: display the list before any transformation
 
-# apply the abs function
-apply_to_each(values, abs)
+# TODO: apply the abs function
 
-# display the list after abs transformation
-print(f"Values after applying abs: {values}")
+# TODO: display the list after abs transformation
 
-# apply the int function
-apply_to_each(values, int)
+# TODO: apply the int function
 
-# display the list after int transformation
-print(f"Values after applying int: {values}")
+# TODO: display the list after int transformation
 
-# apply the square function
-apply_to_each(values, lambda x: x*x)
+# TODO: apply the square function
 
-# display the list after square transformation
-print(f"Values after applying squaring: {values}")
+# TODO: display the list after square transformation
