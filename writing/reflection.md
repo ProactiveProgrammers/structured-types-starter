@@ -1,5 +1,10 @@
 # Structured Types
 
+TODO: Make sure that you delete all of the TODO markers and the prompts
+that go along with them. When you are finished with this reflection it
+should contain technical writing that is suitable for publication on
+your web site.
+
 ## Add Your Name Here
 
 ## Program Output
