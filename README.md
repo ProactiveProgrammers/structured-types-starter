@@ -1,7 +1,7 @@
 # Structured Types
 
-## Assigned: Wednesday, September 29, 2021
-## Due: Friday, October 1, 2021
+## Assigned: Thursday, March 17, 2022
+## Due: Thursday, March 31, 2022
 
 After cloning this repository to your computer, please take the following steps:
 
@@ -13,5 +13,7 @@ After cloning this repository to your computer, please take the following steps:
   - `python perform-apply-to-each.py`: use a higher-order function for lists
 - Confirm that the programs are producing the expected output
 - Explain why the programs produce the output that they do
+- As you are modifying your GitHub repository make sure to commit frequently
+- You should write commit messages that clearly explain how you are changing your repository
 - Use a `docker run` command for your operating system to run GatorGrader
 - Provide all of the required responses in the `writing/reflection.md` file
