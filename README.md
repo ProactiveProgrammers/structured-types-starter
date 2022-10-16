@@ -1,6 +1,6 @@
 ![Proactive Programmers](.github/images/Square-Proactive-Programmers-Logo.svg)
 
-# Numerical Data
+# Structured Types
 
 [![build](../../actions/workflows/build.yml/badge.svg)](../../actions/)
 ![Platforms: Linux, MacOS, Windows](https://img.shields.io/badge/Platform-Linux%20%7C%20MacOS%20%7C%20Windows-blue.svg)
@@ -14,8 +14,8 @@
 If you are a student completing this project as part of a class at Allegheny
 College, please check the [Proactive Programmers Discord
 server](https://discord.gg/kjah8MFYbR) for the assignment's due date. You can
-learn more about this assignment by reading the [Numerical
-Data](https://proactiveprogrammers.com/data-abstraction/source-code-surveys/numerical-data/)
+learn more about this assignment by reading the [Structured
+Types](https://proactiveprogrammers.com/data-abstraction/source-code-surveys/structured-types/)
 project description on the [Proactive Programmers web
 site](https://proactiveprogrammers.com). Please note that the content provided
 in the README file for this GitHub repository is an overview of the project and
@@ -23,7 +23,7 @@ thus does not include the details concerning all the steps needed to
 successfully complete the every project deliverable. Finally, it is important
 to point out that your repository for this project was created from the GitHub
 repository template called
-[numerical-data-starter](https://github.com/ProactiveProgrammers/numerical-data-starter).
+[structured-types-starter](https://github.com/ProactiveProgrammers/structured-types-solution).
 You can check this repository for any updates to this project's documentation
 or source code.
 
@@ -61,8 +61,8 @@ steps:
 - Use the `cd` command to change into the directory for this repository.
 - Change into the program source code directory by typing `cd source`.
 - Run both of the provided Python scripts by typing the following:
-  - `python determine-even-odd.py`: demonstrate computation with integer values and modular arithmetic
-  - `python floating-point-confusion.py`: demonstrate computation with floating-point values
+  - `python compute-tuple-intersection.py`: demonstrate computation of tuple intersection
+  - `python perform-apply-to-each.py`: demonstrate the use of a higher-order function
 - Confirm that the programs are producing the expected output.
 - Make sure that you can explain why the programs produce the output that they do.
 - If you have already installed the
