@@ -1,9 +1,9 @@
 # Structured Types
 
-TODO: Make sure that you delete all of the TODO markers and the prompts
-that go along with them. When you are finished with this reflection it
-should contain technical writing that is suitable for publication on
-your web site.
+TODO: Make sure that you delete all of the TODO markers and the prompts that go
+along with them. When you are finished with this reflection it should contain
+polished and correct technical writing that is suitable for publication on your
+web site.
 
 ## Add Your Name Here
 
@@ -38,5 +38,21 @@ TODO: Provide a detailed response to this question.
 `def apply_to_each(values: List[int], function: Callable) -> None`
 
 ### Why does the `apply_to_each` function not need to return a list?
+
+TODO: Provide a detailed response to this question.
+
+### What are the benefits associated with higher-order functions like `apply_to_each`?
+
+TODO: Provide a detailed response to this question.
+
+### What is the purpose of each of the following source code statements?
+
+```python
+intersection_tuple_one = compute_intersection(first_tuple, second_tuple)
+intersection_tuple_two = compute_intersection(second_tuple, first_tuple)
+print()
+print(f"The first intersection tuple: {intersection_tuple_one}")
+print(f"The second intersection tuple: {intersection_tuple_two}")
+```
 
 TODO: Provide a detailed response to this question.
