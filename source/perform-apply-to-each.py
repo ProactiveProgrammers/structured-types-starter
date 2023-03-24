@@ -7,7 +7,7 @@ from typing import List
 # slides for more details on how to implement these required features
 
 
-def apply_to_each(values: List[int], function: Callable) -> None:
+def apply_to_each(values_list: List[int], function: Callable) -> None:
     """Mutate the input list by applying the provided function to each of its elements."""
     # TODO: Add the source code lines from page 105 of the textbook
 
