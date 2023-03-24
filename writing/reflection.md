@@ -3,7 +3,8 @@
 TODO: Make sure that you delete all of the TODO markers and the prompts that go
 along with them. When you are finished with this reflection it should contain
 polished and correct technical writing that is suitable for publication on your
-web site.
+web site. This means that you should not only delete the word TODO but either
+rewrite or also delete the prompts that are inside of this document.
 
 ## Add Your Name Here
 
