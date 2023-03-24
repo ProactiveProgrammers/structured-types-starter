@@ -25,13 +25,13 @@ jobs:
     steps:
     # Checkout the code of the repository
         - name: Check out Repository Code
-          uses: actions/checkout@v2
+          uses: actions/checkout@v3
           with:
             fetch-depth: 0
         # Setup Python for the current language version
         - name: Setup Python ${{ matrix.python-version }}
           if: always()
-          uses: actions/setup-python@v1
+          uses: actions/setup-python@v4
           with:
             python-version: ${{ matrix.python-version }}
         # Install pip
@@ -51,4 +51,4 @@ jobs:
         - name: Run GatorGrader with GatorGrade
           run:  |
             pipx install gatorgrade
-            gatorgrade --config config/gatorgrade.yml
+            gatorgrade --config config/gatorgrade.yml --report env md GITHUB_STEP_SUMMARY
